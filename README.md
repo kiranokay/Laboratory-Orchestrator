@@ -1,6 +1,6 @@
 # Laboratory-Orchestrator
 
-Demo of Labratory Orchestrator and Data Aggregator.
+Visual of Labratory Orchestrator and Data Aggregator.
 
 Showcasing:
 
