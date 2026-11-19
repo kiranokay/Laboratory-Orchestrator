@@ -8,7 +8,8 @@ Showcasing:
 * Automatic Python Code Generation
 * Workflow
 
-<p align="center"> <img src="DEMO.png" alt="Demo" width="700"/> </p>
+<p align="center"> <img src="DEMO_1.png" alt="Demo" width="700"/> </p>
+<p align="center"> <img src="DEMO_2.png" alt="Demo" width="700"/> </p>
 
 
 Copyright © 2026 Rama Kiran Peesa. All Rights Reserved.
